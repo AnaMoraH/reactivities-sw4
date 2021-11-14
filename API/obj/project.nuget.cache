@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wHlux5htZQhzyTN7DPj+iH6XFM+ysLhYycoVn8EYD7g3toZq0Esc+8kq3pI5JFJlyvqchW3eE43t8De0EK1hPw==",
+  "dgSpecHash": "Br9lwbzitxWA5ZeoKxo6O+zOoUFxNAbS+uz1tw8Xuk72kn6s3HtKKabySryPrhZ6wcQ5rS4qhbNyrVjauMspcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ana\\Documents\\software4\\Proyectos\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
